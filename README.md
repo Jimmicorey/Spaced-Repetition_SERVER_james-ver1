@@ -1,4 +1,6 @@
 # Spaced Repetition Capstone API SERVER
+## App Name
+Let's Learn Spanish
 
 ## Live App
 https://spaced-repetition-client-james-ver1.vercel.app/
